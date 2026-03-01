@@ -1,5 +1,5 @@
 # Spam Classifier
-
+A Project for my cse 123(java intro 3).
 A machine learning classifier that uses decision trees to classify emails and text documents as spam or ham (legitimate). Built in Java as a comprehensive implementation of binary tree data structures and recursive algorithms.
 
 ## Overview
