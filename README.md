@@ -123,7 +123,6 @@ P3_SpamClassifier/
 
 ### Key Implementation Patterns
 
-- **x = change(x)**: Tree modifications create new nodes rather than mutating existing ones
 - **Public-Private Pair**: Recursive algorithms use public wrapper methods calling private helpers
 - **Functional Tree Operations**: No in-place node modifications; all changes return new tree references
 
